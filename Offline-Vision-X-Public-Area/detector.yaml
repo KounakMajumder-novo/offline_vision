@@ -1,0 +1,1 @@
+{"backend":"opencv_zoo_yolox","minimum_confidence":0.0,"model":"models/object_detection_yolox_2022nov.onnx","confidence_threshold":0.35,"nms_iou_threshold":0.5,"image_size":640,"device":"cpu","max_detections":300,"note":"Local OpenCV Zoo YOLOX-s COCO detector; no runtime download. Set backend to opencv_hog for the baseline or ultralytics_yolo for a local custom checkpoint."}
